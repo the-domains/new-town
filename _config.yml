@@ -1,0 +1,14 @@
+layout_spectrum: 0.06827629101462662
+typography_spectrum: 0.9029279090464115
+color:
+  brandStrength: 0.7309886938892305
+  lightness: 0.9539095212239772
+  saturation: 0.07576545770280063
+  rhythmicContrast: 0.2132148747332394
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: New Town
