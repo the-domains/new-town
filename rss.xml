@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[New Town]]></title>
         <description><![CDATA[New Town]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/new-town/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 01:12:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 01:13:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/new-town/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Best of CH 2015: Instagram]]></title>
+            <description><![CDATA[<article><h1>Best of CH 2015: Instagram</h1><p>Four and a half years ago we joined Instagram and have posted over 2,500 images since. More than 99% of the photographs we share, we ourselves have taken, and that's something we're quite proud of.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba4db50512b8a051afebdafd36444e43d96e6161.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/culture/best-of-ch-2015-instagram</link>
+            <guid isPermaLink="false">c030a4fb-fa57-4f11-9663-c4446cf6e6cc</guid>
+            <pubDate>Fri, 20 May 2016 01:12:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rechargeable Electric Wheels]]></title>
             <description><![CDATA[<article><h1>Rechargeable Electric Wheels</h1><p>Glide through traffic without spewing any fumes, thanks to the plethora of e-wheels that are becoming available-though laws around the world are huffing and puffing to keep up. Below are new iterations of two-wheeled personal vehicles that are changing stereotypes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4bfadc3e557f16fa1850e62040c4bb83a42c702.jpg"></article>]]></description>
